@@ -9,3 +9,8 @@
 .green {
     color: green;
 }
+
+     /* comment & WhiteSpace in CSS and     class test.
+        BTW, some are colorblind :) */ .wsInClass {
+    color: green;
+}
